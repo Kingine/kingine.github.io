@@ -1,0 +1,37 @@
+# Update News listing
+
+## update
+- Common-lisp
+- SBCL
+- CCL
+- Allegro CL
+- LispWorks
+- ABCL
+- Scheme
+- racket
+- quicklisp
+- slime
+- asdf
+- guile
+  
+## application
+- [Emacs](https://www.gnu.org/software/emacs/)
+- [Portacle](https://portacle.github.io/)
+
+## Games
+- [Nethack](https://www.nethack.org/)
+- [Pathos](https://pathos.azurewebsites.net/)
+
+## WebSite
+- [common-lisp.net](https://common-lisp.net/)
+- [cliki.net](https://www.cliki.net/)
+- [gnu.org](https://www.gnu.org/)
+- [termux.com](https://termux.com/)
+- [emacs-china.org](https://emacs-china.org/)
+- [v2ex.com](https://www.v2ex.com/)
+- [yuque.com](https://www.yuque.com/dashboard)
+- [ruanyifeng.com](http://www.ruanyifeng.com/home.html)
+- [gog.com](https://www.gog.com/)
+- [epicgames.com](https://www.epicgames.com/store/zh-CN/)
+- [flyonzone.ys168.com](http://flyonzone.ys168.com/)
+- [pythonhunter.org](https://pythonhunter.org/)
